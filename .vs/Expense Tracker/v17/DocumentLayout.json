@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos\\source\\repos\\Expense Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\carlos\\source\\repos\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\carlos\\source\\repos\\expense tracker\\expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\carlos\\source\\repos\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\carlos\\source\\repos\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E26D757-308F-42EB-8D83-5ECC136FE458}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Carlos\\source\\repos\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:44:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\source\\repos\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\Carlos\\source\\repos\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
               "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T15:35:25.888Z",
               "EditorCaption": ""
